@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate software engineer and troubleshooter from the US</h3>
 
-- 🌱 I’m currently learning **C#, REACT**
+- 🌱 I'm currently learning Unity**
 
 - 📫 How to reach me **weltallfive@gmail.com**
 
